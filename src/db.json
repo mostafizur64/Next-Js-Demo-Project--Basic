@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "description": "Explore the latest gadgets and electronic devices."
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "description": "Discover trendy and fashionable clothing items."
+    },
+    {
+      "id": 3,
+      "name": "Books",
+      "description": "Dive into a world of captivating stories and knowledge."
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": "599.99",
+      "category": 1,
+      "description": "The latest smartphone with cutting-edge features."
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": "899.99",
+      "category": 1,
+      "description": "Powerful laptop for work and entertainment."
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "price": 24.99,
+      "category": 2,
+      "description": "Comfortable and stylish t-shirt for everyday wear."
+    },
+    {
+      "id": 4,
+      "name": "Dress",
+      "price": 39.99,
+      "category": 2,
+      "description": "Elegant dress for special occasions."
+    },
+    {
+      "id": 5,
+      "name": "Science Fiction Book",
+      "price": 14.99,
+      "category": 3,
+      "description": "An imaginative science fiction book that explores new worlds."
+    },
+    {
+      "id": 6,
+      "name": "Fantasy Novel",
+      "price": 12.99,
+      "category": 3,
+      "description": "Get lost in a world of magic and adventure."
+    },
+
+    {
+      "id": 17,
+      "name": "Wireless Earbuds",
+      "price": "79.99",
+      "category": 1,
+      "description": "High-quality wireless earbuds for music enthusiasts."
+    },
+    {
+      "id": 18,
+      "name": "Sweater",
+      "price": 29.99,
+      "category": 2,
+      "description": "Warm and cozy sweater for chilly days."
+    },
+    {
+      "id": 19,
+      "name": "Mystery Book",
+      "price": 9.99,
+      "category": 3,
+      "description": "A thrilling mystery book that keeps you on the edge of your seat."
+    },
+    {
+      "id": 20,
+      "name": "Gaming Console",
+      "price": "399.99",
+      "category": 1,
+      "description": "Next-gen gaming console for immersive gaming experiences."
+    }
+  ]
+}
